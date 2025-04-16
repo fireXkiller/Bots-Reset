@@ -20,8 +20,8 @@ const TOKEN = process.env.TOKEN;
 // === Liens entre salons Discord et Google Script
 const scriptMap = {
   // ID_SALON_DISCORD : 'URL_GOOGLE_SCRIPT'
-  '123456789012345678': 'https://script.google.com/macros/s/ABC123/exec',
-  '987654321098765432': 'https://script.google.com/macros/s/XYZ789/exec'
+  '1361769048018256166': 'https://script.google.com/u/0/home/projects/1mabltlf-CmILas8kMlN_ZfrNmNDffn3G5In2Z_RsqKJ2v-xSsZTXGoZY/edit',
+  '1361799306989928488': 'https://script.google.com/u/0/home/projects/1wiUQ3ZZTtgUU6az_VIZMNHbXomuJFZl2nkCCexemJBFlr8KqWCOEKhvJ/edit'
   // Ajoute autant que tu veux ici
 };
 
